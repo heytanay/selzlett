@@ -1,4 +1,4 @@
-# Tanmay Mishra 
+# Tanmay Mishra ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Introduction 👋
 Hey there! I'm Tanmay Mishra, a passionate 💻 Software Engineeer based in Delhi. With a background in Algorithms | Operating System | Cryptography | Database and Management System | Computer Networks, I love exploring and working on innovative projects that push the boundaries of what's possible.
@@ -32,6 +32,8 @@ Here are some of the projects I'm proud of:
 ### CryptView 🔍📚
 - *Dive into the world of secure document viewing with CryptView! 🌐*
 - *Technologies used:Python | Tkinter | PyPDF2*
+- *Contributions to CryptView are highly encouraged! Whether you are a developer, designer, or crypto enthusiast, there are many ways to get involved. Feel free to check out the repository, open issues, and submit pull requests. Let's collaborate to make CryptView the go-to platform for cryptocurrency enthusiasts worldwide! 🚀🌐*
+- *[[Explore CryptView](https://github.com/selzlett/cryptview)](#) 📈🔗*
 
 
 ### 🚀 SecureConnect GUI
@@ -40,9 +42,10 @@ Here are some of the projects I'm proud of:
 
 
 ## Skills 🚀
-- **Programming Languages:** Python | C/C++ | MySQL | Java | HTML | CSS
-- **Frameworks and Libraries:** Tkinter | Matplotlib
-- **Tools:** Raspberry Pi 3B+ | Wireshark | Metasploit | NMap | Arduino | Visual Studio Code/PyCharm/Eclipse | Servers | Secure Routers and Switches
+- **Programming Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- **Frameworks and Libraries:**  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) | ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white) |  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+- **Technologies:** ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white) |![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) | ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) | ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) | Raspberry Pi 3B+ | Arduino | Servers | Secure Routers and Switches
+- **Operating Systems:** ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) | ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) | ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
 ## Education 🎓
 - **B.Tech Computer Science & Engineering** KIIT University, 2021-2025
@@ -50,9 +53,8 @@ Here are some of the projects I'm proud of:
 
 ## Connect with Me 🌐
 Feel free to connect with me on:
-- [LinkedIn](<Your LinkedIn Profile>)
-- [Twitter](<Your Twitter Profile>)
-- [Portfolio](<Link to your portfolio or personal website>)
-- [Email](<Your Email Address>)
+- [LinkedIn](<Your LinkedIn Profile>) | ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+- [Twitter](<Your Twitter Profile>) | ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+- [Email](<Your Email Address>) | ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 Let's collaborate and create something amazing together! 🚀
