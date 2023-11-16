@@ -11,7 +11,7 @@ My journey has been a blend of 🔍 learning new skills and programming language
 ### Current
 - **Student**
   - *Third Year Computer science & engineering student*
-  - *I'm actively working on a software*
+  - *I'm actively working on servers*
 
 ### Past
 - **Ex-Intern at Solid State Laboratory (SSPL) | DRDO | Ministry of Defence | Delhi**
