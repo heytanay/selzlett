@@ -29,14 +29,14 @@ Here are some of the projects I'm proud of:
 - *The Cybersecurity Network Monitor System is an advanced project designed to enhance the security posture of networks by providing real-time monitoring, analysis, and response capabilities. *
 - *Technologies used: Network Monitoring Tools: Wireshark | Intrusion Detection System (IDS): Suricata, Snort | Dashboard Development: Grafana*
 
-### CryptView 🔍📚
+### CryptView 🔒📚
 - *Dive into the world of secure document viewing with CryptView! 🌐*
 - *Technologies used:Python | Tkinter | PyPDF2*
 - *Contributions to CryptView are highly encouraged! Whether you are a developer, designer, or crypto enthusiast, there are many ways to get involved. Feel free to check out the repository, open issues, and submit pull requests. Let's collaborate to make CryptView the go-to platform for cryptocurrency enthusiasts worldwide! 🚀🌐*
 - *[[Explore CryptView](https://github.com/selzlett/cryptview)](#) 📈🔗*
 
 
-### 🚀 SecureConnect GUI
+### SecureConnect GUI🚀 
 - *Spearheaded the development of "SecureConnect GUI," an innovative Python application using Tkinter and 🌐 requests library. 🛡️ The project focused on creating a seamless and secure user authentication experience with Apache servers.*
 - *Technologies used:Python | Tkinter | Apache Server | MySQL Database*
 
