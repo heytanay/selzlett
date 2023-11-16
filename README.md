@@ -47,6 +47,9 @@ Here are some of the projects I'm proud of🏆:
 - **Technologies:** ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white) |![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) | ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) | ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 - **Operating Systems:** ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) | ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) | ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 
+### Hardware⚙️
+![RTX 4060 Ti](https://badgen.net/static/RTX/4060Ti/green)  ![Intel i7 13800HX](https://badgen.net/static/Intel/i7%2013800HX/blue)  ![Asus ROG STRIX](https://badgen.net/static/Asus/ROG%20STRIX/black)  ![Raspberry Pi 3B+](https://badgen.net/static/Raspberry%20Pi/3B%2B/red)
+
 ## Education 🎓
 - **B.Tech Computer Science & Engineering** KIIT University, 2021-2025
 
