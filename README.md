@@ -10,16 +10,16 @@ My journey has been a blend of 🔍 learning new skills and programming language
 ## Work 🛠️
 ### Current
 - **Student**
-  - *Third Year Computer science & engineering student*
+  - *Third Year Computer science & engineering student*💻
   - *I'm actively working on servers*
 
-### Past
+### Past🔍
 - **Ex-Intern at Solid State Laboratory (SSPL) | DRDO | Ministry of Defence | Delhi**
-  - *Worked as a Software Engineer Intern*
+  - *Worked as a Software Engineer Intern*🖥
   - *Developed a web application using Apache server and MySQL database*
 
 - **Ex-Intern at Bharat Electronics Limited (BEL) | Ministry of Defence | Ghaziabad**
-  - *Worked as a Software Engineer Intern*
+  - *Worked as a Software Engineer Intern*🖥
   - *Developed a pdf viewer with advanced encryption algorithms*
 
 ## Projects 🚧
