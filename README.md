@@ -4,7 +4,7 @@
 Hey there! I'm Tanmay Mishra, a passionate 💻 Software Engineeer based in Delhi. With a background in Algorithms | Operating System | Cryptography | Database and Management System | Computer Networks, I love exploring and working on innovative projects that push the boundaries of what's possible.
 
 ## Experience 💼
-I've had the opportunity to 🚀 successfully comlete my internship at Solid State Laboratory (SSPL), DRDO, Delhi.
+I've had the opportunity to 🚀 successfully complete my internship at Solid State Physics Laboratory (SSPL), DRDO, Delhi.
 My journey has been a blend of 🔍 learning new skills and programming languages.
 
 ## Work 🛠️
@@ -14,7 +14,7 @@ My journey has been a blend of 🔍 learning new skills and programming language
   - *I'm actively working on servers*
 
 ### Past🔍
-- **Ex-Intern at Solid State Laboratory (SSPL) | DRDO | Ministry of Defence | Delhi**
+- **Ex-Intern at Solid State Physics Laboratory (SSPL) | DRDO | Ministry of Defence | Delhi**
   - *Worked as a Software Engineer Intern*🖥
   - *Developed a web application using Apache server and MySQL database*
 
